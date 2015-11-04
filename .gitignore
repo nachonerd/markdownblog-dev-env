@@ -1,0 +1,4 @@
+.vagrant/
+logs/*.log
+!public/.gitkeep
+public/*/
